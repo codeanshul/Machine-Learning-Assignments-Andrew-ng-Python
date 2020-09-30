@@ -23,7 +23,7 @@
 [Bias Vs Variance](https://github.com/tanishsahu42/Machine-Learning-Assignments-Andrew-ng-Python/tree/master/Bias_Vs_Variance) 
 
 1. Implemented concepts of regularized linear regression, bias/ variance , polynomial regression to predict the amount of water flowing out of a dam using the change of water level in a reservoir.
- 
+ # Tanish Sahu
 <br/>
 [Support Vector Machines](https://github.com/tanishsahu42/Machine-Learning-Assignments-Andrew-ng-Python/tree/master/SupportVectorMachines)
 
